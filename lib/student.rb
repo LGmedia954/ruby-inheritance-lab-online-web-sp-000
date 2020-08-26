@@ -8,7 +8,9 @@ def initialize(knowledge = [])
 end
 
 def learn(knowledge)
-  Student.knowledge << knowledge
+  @@all << knowledge
 end
+
+
 
 end
