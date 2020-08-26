@@ -8,7 +8,7 @@ def initialize(knowledge = [])
 end
 
 def learn(knowledge)
-  Student << knowledge
+  self << knowledge
 end
 
 end
