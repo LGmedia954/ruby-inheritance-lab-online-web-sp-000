@@ -1,3 +1,5 @@
-class Student 
+class Student
+  
+  def 
 
 end
