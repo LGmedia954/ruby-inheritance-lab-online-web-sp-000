@@ -1,5 +1,4 @@
-class Student
+class Student < User
   
-  def 
 
 end
