@@ -12,7 +12,7 @@ def learn(knowledge)
 end
 
 def knowledge
-  Student.knowledge
+  @knowledge
 end
 
 end
