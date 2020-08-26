@@ -11,6 +11,8 @@ def learn(knowledge)
   @@all << knowledge
 end
 
-
+def knowledge
+  Student.knowledge
+end
 
 end
